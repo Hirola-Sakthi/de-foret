@@ -1,0 +1,83 @@
+{
+  "hero": {
+    "title": "De Belle Villa - Tropical Love Retreat",
+    "description": "",
+    "bgImage": "/images/de-belle-villa/de-belle-1.webp"
+  },
+  "heading": {
+    "title": "De Belle Villa - Tropical Love Retreat",
+    "bgScrollText": "De Belle Villa",
+    "description": [
+      "Step into romance at the De Belle Villa – Tropical Love Retreat, where elegance meets serene comfort.\nUnwind in a beautifully designed private space crafted for intimate moments and peaceful relaxation.\nIndulge in premium amenities and tranquil surroundings that create the perfect escape from everyday life.\nDesigned for couples, this retreat offers a timeless blend of luxury, privacy, and unforgettable memories."
+    ],
+    "image": ""
+  },
+  "imageSlider": [
+
+    {
+      "src": "/images/villas/belle-villa6.jpg",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+    {
+      "src": "/images/de-belle-villa/de-belle-1.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    }, 
+        {
+      "src": "/images/de-belle-villa/de-belle-11.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    }, 
+    
+    {
+      "src": "/images/villas/belle-villa7.jpg",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+      {
+      "src": "/images/de-belle-villa/de-belle-2.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    }, 
+    {
+      "src": "/images/villas/belle-villa2.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+     {
+      "src": "/images/de-belle-villa/de-belle-5.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+    
+        {
+      "src": "/images/de-belle-villa/de-belle-3.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    }
+  ],
+  "roomFeature": {
+    "major": [
+      { "title": "650 Sq Ft", "icon": "cube" },
+      { "title": "2 Adult with 2 Child", "icon": "group" },
+      { "title": "Resort View", "icon": "image" }
+    ],
+    "minor": [
+      "Rollaway beds at additional charge.",
+      "Daily housekeeping and evening turndown service.",
+      "Luxurious bathroom amenities.",
+      "24-hour in-villa dining",
+      "Individually controlled air-conditioning.",
+      "Flat Screen TV",
+      "Complimentary wireless internet access.",
+      "Hair dryer",
+      "Plush robes & slippers",
+      "Iron & Board",
+      "Bathtub with a view",
+      "Coffee and tea making facilities.",
+      "Safety deposit box.",
+      "15% off on Photo Shoot services"
+    ]
+  }
+}

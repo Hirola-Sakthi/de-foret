@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "title": "DINING",
+    "description": "",
+    "bgImage": "/images/hero/dining/candle light dinner-min.webp"
+  },
+  "heading": {
+    "title": "MAKE EACH MOUTHFUL A CELEBRATION",
+    "bgScrollText": "Dining",
+    "description": [
+      "Our luxurious restaurant L’Amour is here to cater to your taste, with some exquisite cuisines and exotic food menu. With the finest local food, our restaurants infuse the distinct flavors of traditional Indian dishes with western cuisine. Want to get the party started with some booze? Sante’, our opulent bar, has a collection of classic and unique drinks to set the perfect mood!",
+
+      "Private Candlelight Dinner provides a warm, gentle light that enhances the appearance of everything, especially your dinner partner. A candlelight supper is a particularly romantic eating experience. Unable to spend meaningful time with your particular someone You may certainly arrange a brief get away from your hectic lifestyle. Romantic dinners and ideas have the power to make your love life more intriguing, bring back pleasant memories, and even help you to create cherish-worthy experiences for the future. "
+    ],
+    "image": {
+      "src": "/images/dining/deforet-food.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    }
+  },
+  "slider": [
+    {
+      "title": "Floating Breakfast",
+      "description": "All you have to do is slip into your swimwear to enjoy your floating breakfast in a setting overlooking the breathtaking beauty of De Foret's landscape.",
+      "icons": [],
+      "link": "",
+      "image": {
+        "src": "/images/dining/floating-breakfast-deforet.webp",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },
+
+    {
+      "title": "Romantic Dinner",
+      "description": "Romantic dinners and ideas have the power to make your love life more intriguing, bring back pleasant memories, and even help you to create cherish-worthy experiences for the future.",
+      "icons": [],
+      "link": "",
+      "image": {
+        "src": "/images/dining/romantic-dining-at-deforet.jpg",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },
+    {
+      "title": "L'Amour restaurant - Pool View Dining",
+      "description": "Experience the creativity and warmth of international cuisines in our romantic setting. The L'Amour restaurant is located next to the lobby and extends out onto the pool deck for an exotic dining experience. It is elevated over the main swimming pool with tropical views of lush greenery.",
+      "icons": [],
+      "link": "",
+      "image": {
+        "src": "/images/dining/poolwivew-restaurant-deforet.jpg",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },
+    {
+      "title": "Sante’ Bar - Refined. Relaxed. Refreshing",
+      "description": "Experience masterful mixology at Sante’ Bar, where expertly crafted cocktails, fine wines, and refreshing mocktails await. Set against a stunning resort backdrop, the vibrant atmosphere and panoramic views offer the perfect ambiance to unwind and savor every moment.",
+      "icons": [],
+      "link": "",
+      "image": {
+        "src": "/images/dining/sante-bar-deforet.jpg",
+        "title": "the story",
+        "alt": "bar of deforet"
+      }
+    }
+  ],
+  "chef": {
+    "image": "/images/chef.jpg",
+    "name": "Rajesh Khanna",
+    "title": "MEET OUR CHEF",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, dolorum. Velit, obcaecati in nostrum explicabo commodi mollitia praesentium voluptas nulla cumque fuga harum!Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, dolorum. Velit, obcaecati in nostrum explicabo commodi mollitia praesentium voluptas nulla cumque fuga harum!"
+  }
+}

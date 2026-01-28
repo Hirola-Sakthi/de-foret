@@ -1,0 +1,165 @@
+{
+  "hero": {
+    "title": "activities",
+    "description": "",
+    "bgImage": "/images/hero/activities/swiming-pool-deforet.webp"
+  },
+  "heading": {
+    "title": "Enjoy Adventurous and Family Time on the Island",
+    "bgScrollText": "Activities",
+    "description": [
+      "The name Swaraj Dweep replaces Havelock. Its beaches, scuba diving, and breathtaking natural scenery are well-known. Breathtaking sunsets, clean beaches, and a delightful paradise await you at De Foret on the unspoiled islands of Andaman and Nicobar.",
+
+      "The islands' pristine beauty and ancient history guarantee that there is enough to stare at and enjoy while you relax in comfort, convenience, and elegance at De Foret.",
+
+      "Our goal is to make your time in De Foret one of the most unforgettable of your life. The finest present you can offer them is a fun-filled family trip. We offer a well-kept children's playground where your children may have a great time. De Foret is a wooded nature retreat. On the white sandy beaches, you may boogie board, scavenger hunt, tic-tac-toe, sand soccer or kickball, and other activities."
+    ],
+    "image": {
+      "src": "/images/activities/cycling-deforet.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    }
+  },
+  "imageSlider": [
+    {
+      "src": "/images/102.jpg",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+    {
+      "src": "/images/101.jpg",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+    {
+      "src": "/images/103.jpg",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    }
+  ],
+  "placeOfInterest": {
+    "major": [
+      { "title": "Scuba Diving", "icon": "" },
+      { "title": "Para sailing", "icon": "" },
+      { "title": "Snorkelling", "icon": "" },
+      { "title": "Sunset point at Radhanagar beach", "icon": "" }
+    ],
+    "minor": [
+      "Radhanagar Beach [3.2 Km]",
+      "Elaphant Beach [4.5 Km by Trekking]",
+      "Kalapathar Beach [5.5 Km]"
+    ]
+  },
+  "activities": [
+    {
+      "title": "Floating Breakfast",
+      "description": "All you have to do is slip into your swimwear to enjoy your floating breakfast in a setting overlooking the breathtaking beauty of De Foret's landscape.",
+      "icons": [],
+      "link": "",
+      "image": {
+        "src": "/images/activities/floating-breakfast-other.webp",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },
+    {
+      "title": "Romantic Dinner",
+      "description": "Romantic dinners and ideas have the power to make your love life more intriguing, bring back pleasant memories, and even help you to create cherish-worthy experiences for the future.",
+      "icons": [],
+      "link": "",
+      "image": {
+        "src": "/images/dining/candle-light-dinner-deforet.webp",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },
+    {
+      "title": "Scuba Diving",
+      "description": "With dozens of dive sites offering stellar biodiversity, excellent visibility, and amazing experiences catering to all ability levels, Havelock is a great place to go diving or snorkeling—or to learn how to dive if you’ve never been before. De Foret has tie-ups with expert and certified dive houses to cater all your needs.",
+      "icons": [],
+      "link": "",
+      "image": {
+        "src": "/images/activities/scuba-diving.webp",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },
+    {
+      "title": "Sunset Cruise",
+      "description": "Experience the enchanting beauty of the setting sun with its majestic hues that will captivate your senses. Indulge in the peaceful serenity of the vast sea as you immerse yourself in our sunset cruises at Havelock. These cruises usually depart around 04.30 pm and last for an hour, providing a breathtaking sight that is perfect for creating unforgettable memories. ",
+      "icons": [],
+      "link": "",
+      "image": {
+        "src": "/images/activities/cruise-sunset.webp",
+        "title": "Sunset Cruise Deforet",
+        "alt": "Sunset Cruise Deforet"
+      }
+    },
+    {
+      "title": "Beach Side Dining",
+      "description": "Dinning at beachfront is one of the cherished experiences of a holiday. Imagine yourself comfortably seated with your loved ones, sampling exotic food near-pristine waters under a sky full of stars. Food and wine at the beach can be an excellent way to create a lifetime of memories.",
+      "icons": [],
+      "link": "",
+      "image": {
+        "src": "/images/activities/brach-side-feast.webp",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },
+    {
+      "title": "Bird Watching",
+      "description": "Our resort in Havelock is located in a lush green forests, making bird watching an ideal activity for both children and adults. The best time to embark on this activity is at sunrise or sunset. The verdant canopy of tall tropical trees attracts an array of beautiful birds painted in vivid hues like the rainbow, whose melodies you'll hum long after they've flown far away.",
+      "icons": [],
+      "link": "",
+      "image": {
+        "src": "/images/activities/bird-watching.webp",
+        "title": "Bird Watching Deforet",
+        "alt": "Bird Watching Deforet"
+      }
+    },
+    {
+      "title": "Mangrove Walk",
+      "description": "Mangroves are abundant on the Andaman and Nicobar Islands. The mangrove walk is an excellent way to explore this ecosystem and learn how these trees grow with their roots coming out of saline water. Discover how the amazing mangroves act as coastal protectors and help harbor juvenile fish before they grow and swim out into the ocean. Get your feet wet as you explore the various benefits of the mangroves and witness some up-close shallow underwater action! ",
+      "icons": [],
+      "link": "",
+      "image": {
+        "src": "/images/activities/mangrove-pathway-walk.webp",
+        "title": "Mangrove Walk Deforet",
+        "alt": "Mangrove Walk Deforet"
+      }
+    },
+    {
+      "title": "Intertidal Walk",
+      "description": "This is one of our best-selling activities and the perfect family experience for those who are not diving, offering a glimpse of the wonders that exist beneath the surface of the sea. The intertidal zone is the area between high tide and low tide when the tide has receded. This area teems with critters, crustaceans, slugs, Christmas tree worms, and sometimes even juvenile fish in pools. Our naturalist can help you schedule this walk during low tide. Be prepared to be mesmerized during this walk. ",
+      "icons": [],
+      "link": "",
+      "image": {
+        "src": "/images/activities/intertidal-walk.webp",
+        "title": "Intertidal Walk Deforet",
+        "alt": "Intertidal Walk Deforet"
+      }
+    },
+    {
+      "title": "Forest Trail",
+      "description": "Whether you're an avid hiker or someone who wants a leisurely stroll, these enchanting forests will leave you spellbound. Our naturalist will lead you through the woodlands starting from our own backyard. Marvel at trees as tall as buildings and discover strange creatures camouflaged in lush foliage. These forests will stay with you long after you leave this mystical land. ",
+      "icons": [],
+      "link": "",
+      "image": {
+        "src": "/images/activities/forest-trail-trekking.webp",
+        "title": "Forest Trail Walk Deforet",
+        "alt": "Forest Trail Walk Deforet"
+      }
+    },
+    {
+      "title": "Game Fishing",
+      "description": "It doesn't get any better than this! Let take you fishing in one of the world's true wilderness areas with vast open oceans and rich coastal waters that produce some of the best sports fishing available in the world.",
+      "icons": [],
+      "link": "",
+      "image": {
+        "src": "/images/activities/game-fishing.webp",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    }
+  ]
+}

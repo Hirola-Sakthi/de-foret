@@ -1,0 +1,113 @@
+{
+  "hero": {
+    "title": "De Belle Villa with Private Pool",
+    "description": "",
+    "bgImage": "/images/hero/villas/belle-villa-with-private-pool1.webp"
+  },
+  "heading": {
+    "title": "De Belle Villa with Private Pool",
+    "bgScrollText": "De Belle Villa with Private Pool",
+    "description": [
+      "Experience unmatched elegance and comfort in our newest addition – the De Belle Private Pool Villas. These exclusive villas redefine indulgence, offering the perfect blend of luxury and tranquillity for your ultimate getaway. Immerse yourself in the luxury of your own private pool, unwind in a spacious outdoor seating area surrounded by nature, and enjoy high-end amenities thoughtfully designed to elevate your stay. With 650 sq. ft. of elegantly appointed interiors and a luxurious bathtub for unparalleled relaxation, every moment is a retreat into bliss at De Belle Private Pool Villas."
+    ],
+    "image": ""
+  },
+  "imageSlider": [
+    {
+      "src": "/images/belle-pool-villa/belle-pool-1.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+    {
+      "src": "/images/villas/belle-villa-with-private-pool8.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+    {
+      "src": "/images/villas/belle-villa-with-private-pool1.webp",
+      "title": "the story",
+      "alt": "pool view"
+    },
+    {
+      "src": "/images/villas/belle-villa-with-private-pool2.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+    {
+      "src": "/images/villas/belle-villa7.jpg",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+    {
+      "src": "/images/de-belle-villa/de-belle-3.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+    {
+      "src": "/images/de-belle-villa/de-belle-4.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+    {
+      "src": "/images/villas/belle-villa-with-private-pool9.jpg",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+    {
+      "src": "/images/villas/belle-villa-with-private-pool10.jpg",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+    {
+      "src": "/images/villas/belle-villa-with-private-pool4.webp",
+      "title": "the story",
+      "alt": "washroom"
+    },
+    {
+      "src": "/images/villas/belle-villa-with-private-pool5.webp",
+      "title": "the story",
+      "alt": "washroom"
+    },
+    {
+      "src": "/images/belle-pool-villa/belle-pool-2.webp",
+      "title": "the story",
+      "alt": "room"
+    }
+  ],
+  "roomFeature": {
+    "major": [
+      {
+        "title": "650 Sq Ft",
+        "icon": "cube"
+      },
+      {
+        "title": "2 Adult with 2 Child",
+        "icon": "group"
+      },
+      {
+        "title": "Resort View",
+        "icon": "image"
+      },
+      {
+        "title": "Private Pool",
+        "icon": "pool"
+      }
+    ],
+    "minor": [
+      "Rollaway beds at additional charge.",
+      "Daily housekeeping and evening turndown service.",
+      "Luxurious bathroom amenities.",
+      "24-hour in-villa dining",
+      "Individually controlled air-conditioning.",
+      "Flat Screen TV",
+      "Hair dryer",
+      "Plush robes & slippers",
+      "Iron & Board",
+      "Bathtub with a view",
+      "Complimentary wireless internet access.",
+      "Coffee and tea making facilities.",
+      "Safety deposit box.",
+      "15% off on Photo Shoot services"
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+/* Hero Section - Wrapper*/
+.hero__wrapper {
+  width: 100%;
+  min-height: 100vh;
+  height: 110vh;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero__wrapper .hero__image,
+.hero__wrapper .hero__image img {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.hero__wrapper .hero__image {
+  width: 100%;
+  height: 100%;
+  background: no-repeat 50% fixed;
+  background-size: auto;
+  background-size: cover;
+}
+.hero__wrapper .hero__image .bg__image {
+  width: 100%;
+  height: 100%;
+  background: no-repeat unset unset fixed;
+  background-size: cover;
+}
+.hero__wrapper .bg__overlay,
+.hero__wrapper .bg__overlay__grad {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 3;
+  pointer-events: none;
+}
+.hero__wrapper .bg__overlay {
+  background: rgba(0, 0, 0, 0.3);
+}
+.hero__wrapper .bg__overlay__grad {
+  background-image: linear-gradient(
+  180deg,
+  transparent 0%,
+  transparent 15%,
+  transparent 28%,
+  transparent 39%,
+  transparent 49%,
+  transparent 58%,
+  transparent 66%,
+  rgba(0, 0, 0, 0.2) 74%,
+  rgba(0, 0, 0, 0.3) 82%,
+  rgba(0, 0, 0, 0.5) 91%,
+  rgba(0, 0, 0, 0.7) 100%
+);
+  /* background: radial-gradient(
+    ellipse at center,
+    transparent 36%,
+    rgba(0, 0, 0, 0.4) 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="rgba(0, 0, 0, 0)",endColorstr="rgba(102, 0, 0, 0)",GradientType=1); */
+}
+
+.hero__wrapper .hero__content {
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  width: 90%;
+  max-width: 700px;
+  text-align: center;
+  z-index:10;
+}
+
+h1.title {
+  font-size: var(--fs-tit-desktop);
+  text-transform: uppercase;
+  letter-spacing: 6px;
+  line-height: 1.4;
+  color: #fff;
+}
+
+.q_blur span {
+  display: inline-block;
+  /* margin-left: 20px; */
+  -webkit-filter: blur(5px);
+  filter: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg"><filter id="filter"><feGaussianBlur stdDeviation="5" /></filter></svg>#filter');
+  filter: blur(0);
+  -webkit-transition: -webkit-filter 1.5s linear 1.2s;
+  transition: -webkit-filter 1.5s linear 1.2s;
+  transition: filter 1.5s linear 1.2s;
+  transition: filter 1.5s linear 1.2s, -webkit-filter 1.5s linear 1.2s;
+}
+q_blur span .unblur {
+  -webkit-filter: blur(0);
+  filter: url('data:image/svg+xml;charset=utf-8,<svg xmlns="http://www.w3.org/2000/svg"><filter id="filter"><feGaussianBlur stdDeviation="0" /></filter></svg>#filter');
+  filter: blur(0);
+}
+.hero__wrapper .hero__content p {
+  line-height: 1.9;
+  font-size: var(--fs-desktop);
+  padding: 10px 15%;
+  color:#fff;
+}
+@media (max-width: 576px) {
+  h1.title {
+    font-size: 2.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .hero__wrapper {
+    height: 70vh;   /* 🔑 stable */
+  }
+}
+
+@media (max-width: 768px) {
+  .hero__wrapper .hero__content {
+    bottom: 8%;
+    top: auto;
+    transform: translateX(-50%);
+  }
+  .hero__wrapper .hero__image :global(img) {
+  object-fit: cover;
+  object-position: center top; 
+  object-position: 50% 20%;
+
+}
+}
+

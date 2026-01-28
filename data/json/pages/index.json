@@ -1,0 +1,236 @@
+{
+  "hero": {
+    "title": "Time to Reconnect With Nature",
+    "description": "The Andaman Islands are a rustic, low-tech tropical island paradise. Offers adventure, exploration, and discovery in addition to the traditional winter sun joys of warm, clean oceans, white sand beaches, and sun.",
+    "bgImage": "/images/hero/hero_banner_image.jpg"
+  },
+  "heading": {
+    "title": "Our Story",
+    "bgScrollText": "Story",
+    "description": [
+      "De Foret was designed and built for anyone and everyone who loves and cherishes nature. Modeled on a jungle theme, we believe that everyone deserves to retreat in nature’s lap to unwind and relax. From spacious living spaces to soothing forest views, we have everything set just for you.",
+
+      "In this time of environmental crisis, De Foret understands the need to conserve trees and forests. Hence, we have tactically designed the space where no trees were cut. We have actively worked towards providing the best experience to our guests without disturbing the natural habitat."
+    ],
+    "image": {
+      "src": "/images/pool-view-big.jpeg",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    }
+  },
+  "video": {
+    "url": "https://youtu.be/bCHCnNfpAF8",
+    "bgImage": "images/pool-view-big.jpeg"
+  },
+  "rooms": [
+    {
+      "title": "De Tropical Villa",
+      "description": "The resorts’s 14 De Tropical villas reflect the island’s natural, serene beauty. Every De Tropical Villa has a sense of discrete luxury, combining contemporary and exotic décor, with signature hand-crafted furniture, exotic fabrics, open-aired balcony and spectacular bathrooms.",
+      "icons": [
+        { "title": "400 Sq Ft", "icon": "cube" },
+        { "title": "2 Adult", "icon": "group" },
+        { "title": "Resort View", "icon": "image" }
+      ],
+      "link": {
+        "title": "Discover More",
+        "url": "/villas/tropical-villa",
+        "redirectMode": "in"
+      },
+      "image": {
+        "src": "/images/tropical-villa/tropical-villa-8.webp",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },
+    {
+      "title": "De Standing Duplex",
+      "description": "Tastefully-appointed, the De Standing Duplex has been created as restful base for you to relax and enjoy breathtaking tropical views. It exudes elegance through the creative use of hardwoods together with an earthy colour palette and elements of local artistry.",
+      "icons": [
+        { "title": "400 Sq Ft", "icon": "cube" },
+        { "title": "2 Adult", "icon": "group" },
+        { "title": "Resort View", "icon": "image" }
+      ],
+      "link": {
+        "title": "Discover More",
+        "url": "/villas/standing-duplex-villa",
+        "redirectMode": "in"
+      },
+      "image": {
+        "src": "/images/villas/de-standing-duplex-deforet.jpg",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },{
+      "title": "De Belle Villa",
+      "description": "De Belle Villa -where luxury meets tranquillity in a serene tropical paradise. Our newest addition redefines indulgence, offering unmatched elegance and comfort for the perfect getaway. Enjoy a private outdoor seating area to bask in nature's beauty, high-end amenities thoughtfully designed for unparalleled luxury, and spacious interiors spanning 650 sq. ft., complete with a luxurious bathtub for ultimate relaxation. At De Belle Villas, your comfort and relaxation are our priorities.",
+      "icons": [
+        { "title": "650 Sq Ft", "icon": "cube" },
+        { "title": "2 Adult", "icon": "group" },
+        { "title": "Resort View", "icon": "image" }
+      ],
+      "link": {
+        "title": "Discover More",
+        "url": "/villas/de-belle-villa",
+        "redirectMode": "in"
+      },
+      "image": {
+        "src": "/images/villas/belle-villa1.webp",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },
+    {
+      "title": "De Belle Villa with Private Pool",
+      "description": "Experience unmatched elegance and comfort in our newest addition - the De Belle Private Pool Villas. These exclusive villas redefine indulgence, offering the perfect blend of luxury and tranquillity for your ultimate getaway. Immerse yourself in the luxury of your own private pool, unwind in a spacious outdoor seating area surrounded by nature, and enjoy high-end amenities thoughtfully designed to elevate your stay.",
+      "icons": [
+        { "title": "650 Sq Ft", "icon": "cube" },
+        { "title": "2 Adult", "icon": "group" },
+        { "title": "Resort View", "icon": "image" },
+        {"title":"Private Pool", "icon":"pool"}
+      ],
+      "link": {
+        "title": "Discover More",
+        "url": "/villas/de-belle-villa-with-private-pool",
+        "redirectMode": "in"
+      },
+      "image": {
+        "src": "/images/belle-pool-villa/belle-pool-1.webp",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },
+    {
+      "title": "De Belle Villa with Private Pool - Tropical Love Retreat",
+       "description": "Experience refined elegance in the De Belle Villa with Private Pool, crafted for ultimate comfort and privacy.\nRelax in your own private pool and spacious outdoor seating area surrounded by serene natural beauty.\nEnjoy premium amenities and thoughtfully designed interiors that elevate every moment of your stay.\nPerfect for couples, the Tropical Love Retreat promises romance, tranquillity, and unforgettable memories.",
+      "icons": [
+        { "title": "650 Sq Ft", "icon": "cube" },
+        { "title": "2 Adult", "icon": "group" },
+        { "title": "Resort View", "icon": "image" },
+        {"title":"Private Pool", "icon":"pool"}
+      ],
+      "link": {
+        "title": "Discover More",
+        "url": "/villas/de-belle-villa-with-private-pool-tropical-love-retreat",
+        "redirectMode": "in"
+      },
+      "image": {
+        "src": "/images/belle-pool-villa/belle-pool-1.webp",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },
+    {
+      "title": "De Belle Villa - Tropical Love Retreat",
+      "description": "Step into romance at the De Belle Villa – Tropical Love Retreat, where elegance meets serene comfort.\nUnwind in a beautifully designed private space crafted for intimate moments and peaceful relaxation.\nIndulge in premium amenities and tranquil surroundings that create the perfect escape from everyday life.\nDesigned for couples, this retreat offers a timeless blend of luxury, privacy, and unforgettable memories.",
+      "icons": [
+        { "title": "650 Sq Ft", "icon": "cube" },
+        { "title": "2 Adult", "icon": "group" },
+        { "title": "Resort View", "icon": "image" }
+      ],
+      "link": {
+        "title": "Discover More",
+        "url": "/villas/de-belle-villa-tropical-love-retreat",
+        "redirectMode": "in"
+      },
+      "image": {
+        "src": "/images/villas/belle-villa1.webp",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    }
+  ],
+  "reveal": {
+    "image": {
+      "src": "/images/home/deforet-romantic-couple.jpg",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+    "title": "The Perfect Romantic Getaway",
+    "description": [
+      "We are here to make your romantic getaway special. From candlelight dinners to bedroom decorations we are here to do it for you! Our luxurious restaurant L’Amour is here to cater to your taste, with some exquisite cuisines and exotic food menu. With the finest local food, our restaurants infuse the distinct flavors of traditional Indian dishes with western cuisine. Want to get the party started with some booze? Sante’, our opulent bar, has a collection of classic and unique drinks to set the perfect mood.",
+
+      "Private Candlelight Dinner provides a warm, gentle light that enhances the appearance of everything, especially your dinner partner. A candlelight supper is a particularly romantic eating experience. Unable to spend meaningful time with your particular someone You may certainly arrange a brief get away from your hectic lifestyle. Romantic dinners and ideas have the power to make your love life more intriguing, bring back pleasant memories, and even help you to create cherish-worthy experiences for the future."
+    ],
+    "link": ""
+  },
+  "featured": [
+    {
+      "title": "Comfortable Stay",
+      "description": "De Foret's main focus and goal is to make you happy and cozy. Have a good time while vacationing at our resort. Make the most out of your visit by taking in the panoramic splendor, thick mangroves, white seaside, and ocean vista.",
+      "icons": [],
+      "link": {
+        "title": "Discover More",
+        "url": "/villas",
+        "redirectMode": "in"
+      },
+      "image": {
+        "src": "/images/villas/comfortable.webp",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },
+    {
+      "title": "Floating Breakfast",
+      "description": "All you have to do is slip into your swimwear to enjoy your floating breakfast in a setting overlooking the breathtaking beauty of De Foret's landscape.",
+      "icons": [],
+      "link": {
+        "title": "Discover More",
+        "url": "/dining",
+        "redirectMode": "in"
+      },
+      "image": {
+        "src": "/images/dining/floating-breakfast-deforet.jpg",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },
+
+    {
+      "title": "Romantic Dinner",
+      "description": "Romantic dinners and ideas have the power to make your love life more intriguing, bring back pleasant memories, and even help you to create cherish-worthy experiences for the future.",
+      "icons": [],
+      "link": {
+        "title": "Discover More",
+        "url": "/dining",
+        "redirectMode": "in"
+      },
+      "image": {
+        "src": "/images/dining/candle-light-dinner-deforet.jpg",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Radhika Malhotra",
+      "comment": "We stayed here for two days. It was amazing, from the room, to the services and the ambience of the place. Special thanks to Ruhina who made great suggestions and helped us with everything. The place is amoung a lot of greenery which is a real perk.",
+      "photo": "/images/reviewers/radhika.jpg"
+    },
+    {
+      "name": "Nandhini Serveypalli",
+      "comment": "This is the best place we stayed in our whole trip. Beautiful and well maintained rooms. Very spacious and lovely location in a lush greenery surrounding. To top it all, Shivani, Shristy, Ashish and Surrender took great personal care with the whole food and dining. Deforet Rocks! A must stay place.",
+      "photo": "/images/reviewers/nandini.jpg"
+    },
+    {
+      "name": "Gilles",
+      "comment": "The big rooms, the amazing breakfast spread and restaurant, the courteous staff especially Ruheena made the stay worthwhile. They allowed us a late checkout since our ferry back to Port Blair was at 3.30. The rooms are clean and dimly lit. ",
+      "photo": "/images/reviewers/glies.jpg"
+    },
+    {
+      "name": "Keshav Nagpal",
+      "comment": "Our stay at DeForet has been an amazing experience. This is no doubt the best option to stay on Havelock if you wish to stay near Radhanagar Beach. Would like to appreciate all the staff including Ashish, Surender, Srishty & Sehdev for their hospitality and care.",
+      "photo": "/images/reviewers/keshav.jpg"
+    },
+    {
+      "name": "Anurag Srivastava",
+      "comment": "Amazing setup. Great hospitality. Good food and amenities. Easily accessible and well connected. Definitely recommended for a stay when visiting Havelock. Nice spacious rooms. Swimming pool and WiFi.",
+      "photo": "/images/reviewers/men.png"
+    },
+    {
+      "name": "Sankari K",
+      "comment": "We were in De Foret for two nights, and we couldn't have found a better place to stay in Havelock. The property itself is so beautifully designed, and there's so much greenery around. The staff are super helpful and very friendly. The other highlight of our stay there was the paneer pakoda- must try, especially after a swim in their pool!",
+      "photo": "/images/reviewers/women.png"
+    }
+  ]
+}

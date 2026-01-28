@@ -1,0 +1,101 @@
+{
+  "hero": {
+    "title": "The Villas",
+    "description": "",
+    "bgImage": "/images/villa_banner_image.webp"
+  },
+  "heading": {
+    "title": "LUXURY VILLAS IN Swaraj Dweep, Andamans",
+    "bgScrollText": "THE VILLAS",
+    "description": [
+      "Stylish accommodation option at De Foret incorporates a choice of 14 De Tropical Villa's, 7 De Standing Duplex to anticipate all of your holiday needs. All categories are the epitome of luxury with customized interiors and essential home comforts."
+    ],
+    "image": {
+      "src": "/images/villas/deforet-villa-front.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    }
+  },
+  "rooms": [
+    {
+      "title": "De Tropical Villa",
+      "description": "The resorts’s 14 De Tropical villas reflect the island’s natural, serene beauty. Every De Tropical Villa has a sense of discrete luxury, combining contemporary and exotic décor, with signature hand-crafted furniture, exotic fabrics, open-aired balcony and spectacular bathrooms.",
+      "icons": [
+        { "title": "400 Sq Ft", "icon": "cube" },
+        { "title": "2 Adult", "icon": "group" },
+        { "title": "Resort View", "icon": "image" }
+      ],
+      "link": {
+        "title": "Discover More",
+        "url": "/villas/tropical-villa",
+        "redirectMode": "in"
+      },
+      "image": {
+        "src": "/images/tropical-villa/tropical-villa-8.webp",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },
+
+    {
+      "title": "De Standing Duplex",
+      "description": "Tastefully-appointed, the De Standing Duplex has been created as restful base for you to relax and enjoy breathtaking tropical views. It exudes elegance through the creative use of hardwoods together with an earthy colour palette and elements of local artistry.",
+      "icons": [
+        { "title": "400 Sq Ft ", "icon": "cube" },
+        { "title": "2 Adult", "icon": "group" },
+        { "title": "Resort View", "icon": "image" }
+      ],
+      "link": {
+        "title": "Discover More",
+        "url": "/villas/standing-duplex-villa",
+        "redirectMode": "in"
+      },
+      "image": {
+        "src": "/images/villas/de-standing-duplex-deforet.jpg",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },
+
+    {
+      "title": "De Belle Villa",
+      "description": "De Belle Villa -where luxury meets tranquillity in a serene tropical paradise. Our newest addition redefines indulgence, offering unmatched elegance and comfort for the perfect getaway. Enjoy a private outdoor seating area to bask in nature’s beauty, high-end amenities thoughtfully designed for unparalleled luxury, and spacious interiors spanning 650 sq. ft., complete with a luxurious bathtub for ultimate relaxation. At De Belle Villas, your comfort and relaxation are our priorities.",
+      "icons": [
+        { "title": "650 Sq Ft", "icon": "cube" },
+        { "title": "2 Adult", "icon": "group" },
+        { "title": "Resort View", "icon": "image" }
+      ],
+      "link": {
+        "title": "Discover More",
+        "url": "/villas/de-belle-villa",
+        "redirectMode": "in"
+      },
+      "image": {
+        "src": "/images/villas/belle-villa1.webp",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },
+
+    {
+      "title": "De Belle Villa with Private Pool",
+      "description": "Experience unmatched elegance and comfort in our newest addition - the De Belle Private Pool Villas. These exclusive villas redefine indulgence, offering the perfect blend of luxury and tranquillity for your ultimate getaway. Immerse yourself in the luxury of your own private pool, unwind in a spacious outdoor seating area surrounded by nature, and enjoy high-end amenities thoughtfully designed to elevate your stay.",
+      "icons": [
+        { "title": "650 Sq Ft", "icon": "cube" },
+        { "title": "2 Adult", "icon": "group" },
+        { "title": "Resort View", "icon": "image" },
+        {"title":"Private Pool", "icon":"pool"}
+      ],
+      "link": {
+        "title": "Discover More",
+        "url": "/villas/de-belle-villa-with-private-pool",
+        "redirectMode": "in"
+      },
+      "image": {
+        "src": "/images/belle-pool-villa/belle-pool-1.webp",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    }
+  ]
+}

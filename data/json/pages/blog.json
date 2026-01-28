@@ -1,0 +1,61 @@
+{
+  "hero": {
+    "title": "BLOG",
+    "description": "Escape into Captivating Travel Stories",
+    "bgImage": "/images/hero/blog/blognew.jpg"
+  },
+  "heading": {
+    "title": "A GATEWAY TO INSPIRING STORIES",
+    "bgScrollText": "Blog",
+    "description": [
+      "Welcome to our stunning De Foret blog page! Dive into a world of captivating stories and delightful experiences that await you. Unveiling the essence of wanderlust, our blog encapsulates breathtaking destinations, hidden gems, and insider tips to enhance your travel adventures. Immerse yourself in the enchanting narratives, vibrant cultures, and awe-inspiring landscapes as we unravel the secrets of extraordinary journeys. Whether you seek relaxation, adventure, or simply inspiration, our blog is your ultimate companion. Let your imagination take flight as you embark on a virtual exploration, igniting your wanderlust and fueling your desire to create unforgettable memories. Start your journey today!"
+  ],
+    "image": {
+      "src": "/images/dining/deforet-food.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    }
+  },
+  "slider": [
+    {
+      "title": "Floating Breakfast",
+      "description": "All you have to do is slip into your swimwear to enjoy your floating breakfast in a setting overlooking the breathtaking beauty of De Foret's landscape.",
+      "icons": [],
+      "link": "",
+      "image": {
+        "src": "/images/dining/floating-breakfast-deforet.webp",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },
+
+    {
+      "title": "Romantic Dinner",
+      "description": "Romantic dinners and ideas have the power to make your love life more intriguing, bring back pleasant memories, and even help you to create cherish-worthy experiences for the future.",
+      "icons": [],
+      "link": "",
+      "image": {
+        "src": "/images/dining/romantic-dinner-at-deforet.jpg",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    },
+    {
+      "title": "L'Amour restaurant - Pool View Dining",
+      "description": "Experience the creativity and warmth of international cuisines in our romantic setting. The L'Amour restaurant is located next to the lobby and extends out onto the pool deck for an exotic dining experience. It is elevated over the main swimming pool with tropical views of lush greenery.",
+      "icons": [],
+      "link": "",
+      "image": {
+        "src": "/images/dining/poolwivew-restaurant-deforet.webp",
+        "title": "the story",
+        "alt": "pool view of deforet"
+      }
+    }
+  ],
+  "chef": {
+    "image": "/images/chef.jpg",
+    "name": "Rajesh Khanna",
+    "title": "MEET OUR CHEF",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, dolorum. Velit, obcaecati in nostrum explicabo commodi mollitia praesentium voluptas nulla cumque fuga harum!Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, dolorum. Velit, obcaecati in nostrum explicabo commodi mollitia praesentium voluptas nulla cumque fuga harum!"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "hero": {
+    "title": "De Standing Duplex Villa",
+    "description": "",
+    "bgImage": "/images/hero/villas/de-standing-duplex-deforet.jpg"
+  },
+  "heading": {
+    "title": "De Standing Duplex Villa",
+    "bgScrollText": "De Standing Duplex Villa",
+    "description": [
+      "Tastefully-appointed, the De Standing Duplex has been created as restful base for you to relax and enjoy breathtaking tropical views. It exudes elegance through the creative use of hardwoods together with an earthy colour palette and elements of local artistry."
+    ],
+    "image": ""
+  },
+  "imageSlider": [
+    {
+      "src": "/images/villas/duplex-villa-inside1.jpg",
+      "title": "the story",
+      "alt": "duplex villa inside"
+    },
+    {
+      "src": "/images/villas/duplex-villa-inside2.jpg",
+      "title": "the story",
+      "alt": "duplex villa inside"
+    },
+    {
+      "src": "/images/villas/duplex-villa-inside3.jpg",
+      "title": "the story",
+      "alt": "duplex villa inside"
+    },
+    {
+      "src": "/images/villas/duplex-villa-inside4.jpg",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+    {
+      "src": "/images/villas/duplex-villa-inside5.jpg",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+    {
+      "src": "/images/de-belle-villa/de-belle-8.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+    {
+      "src": "/images/deforet_resort_washroom.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+            {
+      "src": "/images/new-debella-image-washroom1.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    },
+    {
+      "src": "/images/new-debella-image-washroom2.webp",
+      "title": "the story",
+      "alt": "pool view of deforet"
+    }
+  ],
+  "roomFeature": {
+    "major": [
+      {
+        "title": "400 Sq Ft",
+        "icon": "cube"
+      },
+      {
+        "title": "2 Adult with 2 Child",
+        "icon": "group"
+      },
+      {
+        "title": "Resort View",
+        "icon": "image"
+      }
+    ],
+    "minor": [
+      "Accommodate up to 2 Adults with 2 Child sharing bed with parents.",
+      "Daily housekeeping and evening turndown service.",
+      "Luxurious bathroom amenities.",
+      "24-hour in-villa dining",
+      "Individually controlled air-conditioning.",
+      "Flat Screen TV",
+      "Complimentary wireless internet access.",
+      "Coffee and tea making facilities.",
+      "Safety deposit box.",
+      "Hair dryer",
+      "Plush robes & slippers"
+    ]
+  }
+}
