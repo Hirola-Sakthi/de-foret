@@ -93,6 +93,12 @@
         "icon": "pool"
       }
     ],
+    "price": 
+  {
+    "amount": "4,999",
+    "unit": "night",
+    "note": "Excluding GST"
+  },
     "minor": [
       "Rollaway beds at additional charge.",
       "Daily housekeeping and evening turndown service.",

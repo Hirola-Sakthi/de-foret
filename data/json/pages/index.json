@@ -98,45 +98,6 @@
         "title": "the story",
         "alt": "pool view of deforet"
       }
-    },
-    {
-      "title": "De Belle Villa with Private Pool - Tropical Love Retreat",
-       "description": "Experience refined elegance in the De Belle Villa with Private Pool, crafted for ultimate comfort and privacy.\nRelax in your own private pool and spacious outdoor seating area surrounded by serene natural beauty.\nEnjoy premium amenities and thoughtfully designed interiors that elevate every moment of your stay.\nPerfect for couples, the Tropical Love Retreat promises romance, tranquillity, and unforgettable memories.",
-      "icons": [
-        { "title": "650 Sq Ft", "icon": "cube" },
-        { "title": "2 Adult", "icon": "group" },
-        { "title": "Resort View", "icon": "image" },
-        {"title":"Private Pool", "icon":"pool"}
-      ],
-      "link": {
-        "title": "Discover More",
-        "url": "/villas/de-belle-villa-with-private-pool-tropical-love-retreat",
-        "redirectMode": "in"
-      },
-      "image": {
-        "src": "/images/belle-pool-villa/belle-pool-1.webp",
-        "title": "the story",
-        "alt": "pool view of deforet"
-      }
-    },
-    {
-      "title": "De Belle Villa - Tropical Love Retreat",
-      "description": "Step into romance at the De Belle Villa – Tropical Love Retreat, where elegance meets serene comfort.\nUnwind in a beautifully designed private space crafted for intimate moments and peaceful relaxation.\nIndulge in premium amenities and tranquil surroundings that create the perfect escape from everyday life.\nDesigned for couples, this retreat offers a timeless blend of luxury, privacy, and unforgettable memories.",
-      "icons": [
-        { "title": "650 Sq Ft", "icon": "cube" },
-        { "title": "2 Adult", "icon": "group" },
-        { "title": "Resort View", "icon": "image" }
-      ],
-      "link": {
-        "title": "Discover More",
-        "url": "/villas/de-belle-villa-tropical-love-retreat",
-        "redirectMode": "in"
-      },
-      "image": {
-        "src": "/images/villas/belle-villa1.webp",
-        "title": "the story",
-        "alt": "pool view of deforet"
-      }
     }
   ],
   "reveal": {

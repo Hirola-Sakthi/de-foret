@@ -11,12 +11,18 @@ import RoomBookingForm from "../../components/booking/room";
 import ImageSlider from "../../components/sliders/image-slider";
 import RoomFeature from "../../components/room-features";
 import Data from "../../data/json/pages/belle-villa-with-private-pool.json";
+import RateCards from "../../components/rate-cards/rateCards";
+import cards from "../../data/json/pages/rates-data";
 export async function getStaticProps() {
   return { props: { data: Data } };
 }
 export default function StandingVilla({ data }) {
   const { hero, heading, imageSlider, roomFeature } = data;
+  const poolCardData = cards.filter((filtData) => filtData.primaryEntity === "privatePool")
   const { scroll } = useLocomotiveScroll();
+console.log("roomfeature",roomFeature?.minor);
+console.log("roomfeature",roomFeature?.major);
+
 
   const goToSecondPart = (event) => {
     event.preventDefault();
@@ -92,8 +98,10 @@ export default function StandingVilla({ data }) {
             <RoomFeature
               title="VILLA FEATURES"
               left={roomFeature?.major}
+              price={roomFeature?.price}
               right={roomFeature?.minor}
             />
+            <RateCards cards={poolCardData}/>
           </section>
           <section
             className="section mt-20"

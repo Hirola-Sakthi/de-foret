@@ -11,11 +11,14 @@ import RoomBookingForm from "../../components/booking/room";
 import ImageSlider from "../../components/sliders/image-slider";
 import RoomFeature from "../../components/room-features";
 import Data from "../../data/json/pages/belle-villa.json";
+import RateCards from "../../components/rate-cards/rateCards";
+import cards from "../../data/json/pages/rates-data";
 export async function getStaticProps() {
   return { props: { data: Data } };
 }
 export default function StandingVilla({ data }) {
   const { hero, heading, imageSlider, roomFeature } = data;
+  const  DebellaData = cards.filter((filterData,index)=> filterData?.primaryEntity === "debella");
   const { scroll } = useLocomotiveScroll();
 
   const goToSecondPart = (event) => {
@@ -93,8 +96,10 @@ export default function StandingVilla({ data }) {
             <RoomFeature
               title="VILLA FEATURES"
               left={roomFeature?.major}
+              price={roomFeature?.price}
               right={roomFeature?.minor}
             />
+            <RateCards cards={DebellaData}/> 
           </section>
           <section
             className="section mt-20"

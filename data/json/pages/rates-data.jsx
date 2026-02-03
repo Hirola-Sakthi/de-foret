@@ -18,12 +18,12 @@ const cards = [
       { icon: Dot, content: "The romantic dinner experience is not available on December 24th and December 31st." }
     ],
     pricingConfig: {
-      price: "₹36,000",
+      price: "₹7500",
       timing: "INR / Night",
-      priceContent1: "Plus ₹6,480 taxes & fees per night",
-      priceContent2: "Total ₹42,480 for 1 night (incl. taxes)",
+      priceContent1: "Plus ₹2,480 taxes & fees per night",
+      priceContent2: "Total ₹9,980 for 1 night (incl. taxes)",
       btn: {
-        btncontent: "Book Now",
+        btncontent: "BOOK NOW",
         btnUrl: ""
       }
     }
@@ -44,12 +44,12 @@ const cards = [
       { icon: Dot, content: "The romantic dinner experience is not available on December 24th and December 31st." }
     ],
     pricingConfig: {
-      price: "₹36,000",
+      price: "₹6000",
       timing: "INR / Night",
-      priceContent1: "Plus ₹6,480 taxes & fees per night",
-      priceContent2: "Total ₹42,480 for 1 night (incl. taxes)",
+      priceContent1: "Plus ₹2,480 taxes & fees per night",
+      priceContent2: "Total ₹8,480 for 1 night (incl. taxes)",
       btn: {
-        btncontent: "Book Now",
+        btncontent: "BOOK NOW",
         btnUrl: ""
       }
     }

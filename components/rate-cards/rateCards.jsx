@@ -6,12 +6,9 @@ import cards from '../../data/json/pages/rates-data'
 export default function RateCards({cards}) {
 
 
-     
-     
-
   return (
     <>
-{cards.map((CardData,index) => (
+    {cards.map((CardData,index) => (
     <div key={index} className={styles.ratecardSection}>
       <div className={styles.container} >
         <div className={styles.rateTitleRow}>
@@ -38,30 +35,6 @@ export default function RateCards({cards}) {
               </span>
                 )})}
 
-              {/* <span className={styles.iconRow}>
-                <University   className={styles.icon} />
-                Daily breakfast served with your stay
-              </span>
-
-              <span className={styles.iconRow}>
-                <Sandwich  className={styles.icon} />
-               One floating breakfast experience for two, set amidst serene waters
-              </span>
-
-              <span className={styles.iconRow}>
-                <SunMoon  className={styles.icon} />
-                One-time romantic candlelight dinner for two featuring a five-course gourmet menu
-              </span>
-
-              <span className={styles.iconRow}>
-                <Clock3  className={styles.icon} />
-                Early check-in and late check-out privileges (subject to availability)
-              </span>
-
-              <span className={styles.iconRow}>
-                <Award  className={styles.icon} />
-                Exclusive offer available only for bookings made through our official website
-              </span> */}
             </div>
             <div className={styles.notesSection}>
               <span className={styles.sectionTitle}>Notes</span>
@@ -74,16 +47,6 @@ export default function RateCards({cards}) {
               </span>
               )})}
 
-              {/* 
-              <span className={styles.iconRow}>
-                <Dot  className={styles.dotIcon} />
-               Floating breakfast and candlelight dinner are subject to weather conditions.
-              </span>
-
-              <span className={styles.iconRow}>
-                <Dot  className={styles.dotIcon} />
-               The romantic dinner experience is not available on December 24th and December 31st.
-              </span> */}
             </div>
           </div>
           <div className={styles.rightCol}>
