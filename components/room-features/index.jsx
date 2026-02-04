@@ -1,8 +1,7 @@
 import React from "react";
 import MyIcon from "../icon/myIcon";
+import { Plus } from "lucide-react";
 const RoomFeature = ({ title, left, right, price }) => {
-  console.log("price", price);
-
   return (
     <div>
       <style jsx>
@@ -85,11 +84,23 @@ const RoomFeature = ({ title, left, right, price }) => {
             margin-top: 40px;
             margin-bottom: 40px;
             border-radius: 14px;
-            // background: rgba(255, 255, 255, 0.05);
             background: #f8f8f8;
             backdrop-filter: blur(8px);
             width: 50%;
             box-shadow: 0 12px 35px rgba(0, 0, 0, 0.08);
+            display: block;
+          }
+          .price__card-2 {
+            border: 1px solid rgba(255, 255, 255, 0.25);
+            padding: 24px;
+            margin-top: 25px;
+            margin-bottom: 25px;
+            border-radius: 14px;
+            background: #f8f8f8;
+            backdrop-filter: blur(8px);
+            width: 50%;
+            box-shadow: 0 12px 35px rgba(0, 0, 0, 0.08);
+            display: none;
           }
 
           .price__label {
@@ -121,6 +132,17 @@ const RoomFeature = ({ title, left, right, price }) => {
             color: #000;
             font-weight: 500;
           }
+          .price_icon {
+            display: inline-flex;
+            align-items: flex-end;
+            gap: 4px;
+            color: #000;
+          }
+
+          .price__note {
+            white-space: nowrap;
+          }
+
           @media (max-width: 1024px) {
             .price__card {
               width: 60%;
@@ -130,10 +152,17 @@ const RoomFeature = ({ title, left, right, price }) => {
             .price__card {
               width: 70%;
             }
+            .price__card-2 {
+              width: 70%;
+            }
           }
-          @media (max-width: 540px) {
+          @media (max-width: 600px) {
             .price__card {
-              width: 100%;
+              display: none;
+            }
+            .price__card-2 {
+              display: block;
+              width:100%
             }
           }
         `}
@@ -157,7 +186,12 @@ const RoomFeature = ({ title, left, right, price }) => {
                   ₹{price.amount}
                   <span>/ {price.unit}</span>
                 </div>
-                {price.note && <div className="price__note">{price.note}</div>}
+                <span className="price_icon">
+                  <Plus size={14} />
+                  {price.note && (
+                    <span className="price__note">{price.note}</span>
+                  )}
+                </span>
               </div>
             )}
           </div>
@@ -185,6 +219,21 @@ const RoomFeature = ({ title, left, right, price }) => {
                 </li>
               ))}
             </ul>
+            {price && (
+              <div className="price__card-2">
+                <div className="price__label">Starting From</div>
+                <div className="price__value">
+                  ₹{price.amount}
+                  <span>/ {price.unit}</span>
+                </div>
+                <span className="price_icon">
+                  <Plus size={14} />
+                  {price.note && (
+                    <span className="price__note">{price.note}</span>
+                  )}
+                </span>
+              </div>
+            )}
           </div>
         </div>
       </div>

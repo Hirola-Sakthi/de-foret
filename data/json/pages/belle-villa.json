@@ -63,9 +63,9 @@
       { "title": "Resort View", "icon": "image" }
     ],
     "price": {
-      "amount": "4,999",
+      "amount": "5,999",
       "unit": "night",
-      "note": "Excluding GST"
+      "note": "GST"
     },
     "minor": [
       "Rollaway beds at additional charge.",

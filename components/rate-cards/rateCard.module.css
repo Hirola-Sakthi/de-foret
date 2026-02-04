@@ -68,10 +68,10 @@
   height: 18px;
   min-width: 18px;
 }
-.dotIcon{
-   width: 18px;
+.dotIcon {
+  width: 18px;
   height: 18px;
-  min-width: 18px;   
+  min-width: 18px;
 }
 .rightCol {
   min-width: 240px;
@@ -113,6 +113,12 @@
 /* .bookBtn:hover {
   background: #9bb3bb;
 } */
+ .taxInline {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px; 
+  white-space: nowrap; 
+}
 
 .totalPrice {
   margin-top: 10px;
@@ -141,7 +147,7 @@
     font-size: 24px;
   }
 }
- 
+
 @media (max-width: 768px) {
   .mainContent {
     flex-direction: column;
@@ -161,7 +167,7 @@
     width: fit-content;
   }
 }
- @media (max-width: 480px) {
+@media (max-width: 480px) {
   .ratecardSection {
     width: 100%;
     margin: 20px 0;
@@ -199,5 +205,16 @@
 
   .totalPrice {
     font-size: 12px;
+  }
+  .rightCol {
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    padding: 24px;
+    border-radius: 14px;
+    background: #f8f8f8;
+    backdrop-filter: blur(8px);
+    box-shadow: 0 12px 35px rgba(0, 0, 0, 0.08);
+  }
+  .mainContent{
+    gap: 0px;
   }
 }

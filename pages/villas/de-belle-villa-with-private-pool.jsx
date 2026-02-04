@@ -20,9 +20,6 @@ export default function StandingVilla({ data }) {
   const { hero, heading, imageSlider, roomFeature } = data;
   const poolCardData = cards.filter((filtData) => filtData.primaryEntity === "privatePool")
   const { scroll } = useLocomotiveScroll();
-console.log("roomfeature",roomFeature?.minor);
-console.log("roomfeature",roomFeature?.major);
-
 
   const goToSecondPart = (event) => {
     event.preventDefault();

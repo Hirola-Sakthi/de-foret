@@ -1,4 +1,4 @@
-import { Award, Clock3, Dot, Sandwich, SunMoon, University } from "lucide-react";
+import { Award, Clock3, Dot, Plus, Sandwich, SunMoon, University } from "lucide-react";
 
 const cards = [
   {
@@ -20,8 +20,9 @@ const cards = [
     pricingConfig: {
       price: "₹7500",
       timing: "INR / Night",
-      priceContent1: "Plus ₹2,480 taxes & fees per night",
-      priceContent2: "Total ₹9,980 for 1 night (incl. taxes)",
+      priceContent1: "GST",
+      // priceContent2: "Total ₹9,980 for 1 night (incl. taxes)",
+      icon:Plus,
       btn: {
         btncontent: "BOOK NOW",
         btnUrl: ""
@@ -46,8 +47,9 @@ const cards = [
     pricingConfig: {
       price: "₹6000",
       timing: "INR / Night",
-      priceContent1: "Plus ₹2,480 taxes & fees per night",
-      priceContent2: "Total ₹8,480 for 1 night (incl. taxes)",
+      priceContent1: "GST",
+      icon:Plus,
+      // priceContent2: "Total ₹8,480 for 1 night (incl. taxes)",
       btn: {
         btncontent: "BOOK NOW",
         btnUrl: ""
